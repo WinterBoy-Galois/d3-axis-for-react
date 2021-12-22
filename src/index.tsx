@@ -1,4 +1,5 @@
 import React from "react";
+import ReactStyle from "react"
 import type { AxisScale, AxisDomain } from "d3-axis";
 
 function identity(x: any) {
